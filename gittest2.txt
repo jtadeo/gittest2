@@ -1,5 +1,4 @@
-blah blah blah
-
+Replaced the blahs
 Can I see all the changes?
 What else did I work with?
 I added this line, is it in red?
